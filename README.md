@@ -1,2 +1,2 @@
-# denemricky
-![](preview.gif)
+# Rick and Morty
+![](/preview.gif)
